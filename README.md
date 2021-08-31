@@ -1,2 +1,3 @@
 # google-glass-html5
-Projeto extracurricular com as tecnologias utilizadas html5 + css + java script
+projeto extracurricular do curso html5 do canal Curso em Vídeo com as tecnologias html5 + css + java script
+tema: Layout de um site sobre o Google Glass
